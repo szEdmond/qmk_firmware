@@ -4,6 +4,32 @@
 *~
 .DS_Store
 ._*
+*.mk
+*.txt
+*.md
+doxygen-todo
+Makefile
+LICENSE
+Doxyfile
+.gitmodules
+.gitattributes
+.editorconfig
+.clangd
+.clang-format
+util/**
+users/**
+tmk_core/**
+tests/**
+quantum/**
+platforms/**
+lib/**
+layouts/**
+drivers/**
+docs/**
+data/**
+builddefs/**
+.vscode/**
+
 
 # Merge files
 *.orig
